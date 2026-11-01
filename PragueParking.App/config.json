@@ -1,0 +1,10 @@
+{
+  "AntalPlatser": 100,
+  "StandardKapacitet": 2,
+  "GratisMinuter": 10,
+  "Fordonstyper": [
+    { "Namn": "Bil", "Storlek": 2, "PrisPerTimme": 20 },
+    { "Namn": "MC", "Storlek": 1, "PrisPerTimme": 10 }
+  ],
+  "PlatsKapaciteter": { "1": 4, "2": 4 }
+}

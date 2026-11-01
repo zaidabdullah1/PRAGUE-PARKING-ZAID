@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+.vs/
+*.user
+**/parkering.json
+**/parkering.json.tmp

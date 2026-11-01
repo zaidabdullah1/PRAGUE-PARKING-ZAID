@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PragueParking.Core", "PragueParking.Core\PragueParking.Core.csproj", "{60B41A30-EE7D-4585-AFE7-6509B0A68101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PragueParking.Data", "PragueParking.Data\PragueParking.Data.csproj", "{60B41A30-EE7D-4585-AFE7-6509B0A68102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PragueParking.App", "PragueParking.App\PragueParking.App.csproj", "{60B41A30-EE7D-4585-AFE7-6509B0A68103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PragueParking.Tests", "PragueParking.Tests\PragueParking.Tests.csproj", "{60B41A30-EE7D-4585-AFE7-6509B0A68104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60B41A30-EE7D-4585-AFE7-6509B0A68101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B41A30-EE7D-4585-AFE7-6509B0A68104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

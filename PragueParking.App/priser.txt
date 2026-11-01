@@ -1,0 +1,5 @@
+# Ändra endast siffrorna efter likhetstecknet. Använd punkt för decimaler.
+# Beloppen är CZK per påbörjad timme. Text efter # är en kommentar.
+GratisMinuter=10 # Första 10 minuterna är gratis
+Bil=20 # Bil: 20 CZK per påbörjad timme
+MC=10 # MC: 10 CZK per påbörjad timme
